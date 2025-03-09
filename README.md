@@ -1,6 +1,6 @@
 ## Hi ! Bon dia ! Bonjour ! Buenos días ! Hallo ! 👋
 
-- Currently learning programation at Barcelona42
+- Currently learning programation at Barcelona42 <br>
 [![cochatel's 42 stats](https://badge.mediaplus.ma/kettlebells/cochatel?UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### Languages
