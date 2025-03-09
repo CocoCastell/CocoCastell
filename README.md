@@ -7,4 +7,4 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chatelcorentin.2@gmail.com)
+[![cochatel's 42 stats](https://badge.mediaplus.ma/kettlebells/cochatel?UM6P=off)](https://github.com/oakoudad/badge42)
