@@ -4,6 +4,7 @@
 
 <p align="left">I'm Coco, a French student studying programming at 42 Barcelona, passionate about coding and always eager to learn new technologies!</p>
 
+
 ###
 
 <div align="left">
@@ -14,11 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
