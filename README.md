@@ -1,9 +1,28 @@
-<h1 align="left">Bon dia !</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">I'm Coco, a French student studying programming at 42 Barcelona, passionate about coding and always eager to learn new technologies!</p>
+<p align="left">I'm Coco, a French student studying IT at 42 Barcelona, passionate about coding and always eager to learn new technologies.</p>
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- 🎲 Addicted to learning and acquiring new skills.<br>- 📚 I used to study paleontology before switching to IT.<br>- 🚀 Passionate about working on innovative and challenging projects.</p>
+
+###
+
+<h4 align="left">Current Focus</h4>
+
+###
+
+<p align="left">- Learning C++<br>- Builting a minishell</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -14,7 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
-
 
 ###
 
