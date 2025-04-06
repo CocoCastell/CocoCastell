@@ -37,5 +37,4 @@
 ###
 
 ### Contact
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cochatel@student.42barcelona.com){:target="_blank"}
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cochatel@student.42barcelona.com)
