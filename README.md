@@ -37,6 +37,6 @@
 ###
 
 ### Contact
-[![cochatel@student.42barcelona.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monemail@example.com)
+[![cochatel@student.42barcelona.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cochatel@student.42barcelona.com)  
 
 
