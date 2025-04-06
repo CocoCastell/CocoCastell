@@ -1,11 +1,23 @@
-## Hi ! Bon dia ! Bonjour ! Buenos días ! Hallo ! 👋
+<h1 align="left">Bon dia !</h1>
 
-- Currently learning programation at Barcelona42 <br> <br>
-[![cochatel's 42 stats](https://badge.mediaplus.ma/kettlebells/cochatel?UM6P=off)](https://github.com/oakoudad/badge42) <br>
+###
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p align="left">I'm Coco, a French student studying programming at 42 Barcelona, passionate about coding and always eager to learn new technologies!</p>
 
-### Contact
-[![chatelcorentin.2@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monemail@example.com)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
