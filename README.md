@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- Learning C++<br>- Builting a minishell</p>
+<p align="left">- Learning C++<br>- Working on multithreading processes</p>
 
 ###
 
