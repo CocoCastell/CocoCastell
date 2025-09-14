@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- Learning C++ and Java<br>- Working on multithreading processes</p>
+<p align="left">- Learning C++ and C#<br>- Working on multithreading processes</p>
 
 ###
 
