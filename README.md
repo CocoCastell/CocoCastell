@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- Learning C++ and C#<br>- Working on System Administration and <b>DOcker</b></p>
+<p align="left">- Learning C++ and C#<br>- Working on <b>System Administration</b> and <b>Docker</b></p>
 
 ###
 
