@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- Learning C++ and C#<br>- Working on <b>System Administration</b> and <b>Docker</b></p>
+<p align="left">- Developping my C++ and C# skills<br>- Working on <b>System Administration</b> and <b>Docker</b></p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/charp-original.svg" height="40" alt="blender logo"  />
 </div>
 
 ###
